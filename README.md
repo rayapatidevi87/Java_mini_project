@@ -13,7 +13,6 @@ Dashboard: Provides access to all application features. SOS Alert: Prepares emer
 ## How to Run
 Clone the repository:
 
-git clone https://github.com/gangulamani70-bit/SafeHer-Women-Safety-App.git
 
 Open the project in Android Studio.
 
